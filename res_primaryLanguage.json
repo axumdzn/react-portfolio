@@ -1,0 +1,98 @@
+{
+    "basic_info": {
+      "description_header": "Hi there",
+      "description": "My name is Kenneth Felix. I am currently a Full Stack Developer that prefers the Back-End Side of things. My goals are currently to learn Python and C# and expand my programming knowledge.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Bullet Journal Squared",
+        "startDate": "2021",
+        "description": "A project that allows one to make one journal entry per day with a good amount of customization with several different sections and themes.",
+        "images": [
+          "images/portfolio/bullet-journal/p1.png",
+          "images/portfolio/bullet-journal/p2.png"
+        ],
+        "url": "https://bullet-journal-squared.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "MindGro",
+        "startDate": "2021",
+        "description": "Journal entry project done that reads the emotion of the journal entry and portrays a flower depending on the main emotion",
+        "images": [
+          "images/portfolio/mindgro/p1.png",
+          "images/portfolio/mindgro/p2.png"
+        ],
+        "url": "https://argenx1.github.io/mind-gro/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Viewnify",
+        "startDate": "2021",
+        "description": "This is my first bigger size react application that allows you to swipe on movies and match with people depending on their matches",
+        "images": [
+          "images/portfolio/viewnify/p1.jpg",
+          "images/portfolio/viewnify/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Trinity Bootcamp",
+        "title": "FullStack Developer",
+        "years": "2021",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "REST API",
+          "HTML5",
+          "Bootstrap"
+        ]
+      }
+      
+    ]
+  }
