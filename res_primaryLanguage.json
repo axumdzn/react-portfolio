@@ -15,8 +15,8 @@
         "startDate": "2021",
         "description": "A project that allows one to make one journal entry per day with a good amount of customization with several different sections and themes.",
         "images": [
-          "images/portfolio/bullet-journal/p1.png",
-          "images/portfolio/bullet-journal/p2.png"
+          "images/portfolio/bullet-journal/p1.jpg",
+          "images/portfolio/bullet-journal/p2.jpg"
         ],
         "url": "https://bullet-journal-squared.herokuapp.com/",
         "technologies": [
@@ -39,8 +39,8 @@
         "startDate": "2021",
         "description": "Journal entry project done that reads the emotion of the journal entry and portrays a flower depending on the main emotion",
         "images": [
-          "images/portfolio/mindgro/p1.png",
-          "images/portfolio/mindgro/p2.png"
+          "images/portfolio/mindgro/p1.jpg",
+          "images/portfolio/mindgro/p2.jpg"
         ],
         "url": "https://argenx1.github.io/mind-gro/",
         "technologies": [
