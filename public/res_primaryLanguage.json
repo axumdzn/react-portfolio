@@ -63,10 +63,9 @@
         "startDate": "2021",
         "description": "This is my first bigger size react application that allows you to swipe on movies and match with people depending on their matches",
         "images": [
-          "images/portfolio/viewnify/p1.jpg",
-          "images/portfolio/viewnify/p2.jpg"
+          "images/portfolio/viewnify/p1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/axumdzn/viewnify",
         "technologies": [
           {
             "class": "devicon-react-plain",
@@ -91,6 +90,15 @@
           "REST API",
           "HTML5",
           "Bootstrap"
+        ]
+      },
+      {
+        "company": "Rockland Community College",
+        "title": "A.A.S. Cyber Sequrity",
+        "years": "2018",
+        "mainTech": [
+        ],
+        "technologies": [
         ]
       }
       
